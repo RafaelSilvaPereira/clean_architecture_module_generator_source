@@ -1,0 +1,8 @@
+{
+  "name": "clean_architecture_module_generator",
+  "version": "1.0.0",
+  "main": "input.js",
+  "author": "Rafael Silva Pereira",
+  "fs": "^0.0.1-security",
+  "license": "MIT"
+}
